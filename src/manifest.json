@@ -1,26 +1,26 @@
 {
-  "name": "Progressive Web Cat",
-  "short_name": "PWCat",
-  "description": "A funny cat image generator",
+  "name": "Progressive Web App",
+  "short_name": "PWA",
+  "description": "progressive web app.",
   "icons": [
     {
-      "src": "assets/icon-128x128.png",
+      "src": "assets/home-screen/icon-128x128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "assets/icon-152x152.png",
-      "sizes": "152x152",
+      "src": "assets/home-screen/icon-96x96.png",
+      "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "assets/icon-256x256.png",
-      "sizes": "256x256",
+      "src": "assets/home-screen/icon-72x72.png",
+      "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "assets/icon-512x512.png",
-      "sizes": "512x512",
+      "src": "assets/home-screen/icon-64x64.png",
+      "sizes": "64x64",
       "type": "image/png"
     }
   ],
