@@ -10,7 +10,7 @@
         "https://wkylin.github.io/ng-pwa/favicon.ico",
         "https://wkylin.github.io/ng-pwa/index.html",
         "https://wkylin.github.io/ng-pwa/inline.318b50c57b4eba3d437b.bundle.js",
-        "https://wkylin.github.io/ng-pwa/main.036f207b6b6676cadfa2.bundle.js",
+        "https://wkylin.github.io/ng-pwa/main.517b735122aebb871d63.bundle.js",
         "https://wkylin.github.io/ng-pwa/polyfills.bf95165a1d5098766b92.bundle.js",
         "https://wkylin.github.io/ng-pwa/styles.0744b9f6769c326ccd7f.bundle.css"
       ],
@@ -36,7 +36,7 @@
   "hashTable": {
     "https://wkylin.github.io/ng-pwa/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "https://wkylin.github.io/ng-pwa/assets/home-screen/icon-128x128.png": "67b78d05bc979b13d20db473f598d558e7d1c1b4",
-    "https://wkylin.github.io/ng-pwa/main.036f207b6b6676cadfa2.bundle.js": "e751180018ae673392e28580f7def25223adcb4f",
+    "https://wkylin.github.io/ng-pwa/main.517b735122aebb871d63.bundle.js": "9bba5ebfdc8919111e71d6b0bbc39712f365f1c5",
     "https://wkylin.github.io/ng-pwa/assets/home-screen/icon-152x152.png": "67b78d05bc979b13d20db473f598d558e7d1c1b4",
     "https://wkylin.github.io/ng-pwa/polyfills.bf95165a1d5098766b92.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
     "https://wkylin.github.io/ng-pwa/assets/home-screen/icon-256x256.png": "67b78d05bc979b13d20db473f598d558e7d1c1b4",
@@ -44,7 +44,7 @@
     "https://wkylin.github.io/ng-pwa/assets/home-screen/icon-512x512.png": "67b78d05bc979b13d20db473f598d558e7d1c1b4",
     "https://wkylin.github.io/ng-pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "https://wkylin.github.io/ng-pwa/assets/home-screen/icon-64x64.png": "5bf33e6120e1937b634bd76642f2b4e194fdc226",
-    "https://wkylin.github.io/ng-pwa/index.html": "7f772d1d5672569b1c54f81d7ebb3e6d7a949698",
+    "https://wkylin.github.io/ng-pwa/index.html": "231699d2856a104961dc25db3fb43fce2fe9a274",
     "https://wkylin.github.io/ng-pwa/assets/home-screen/icon-72x72.png": "7daf85ca3c0511f02c61e1fb3b50f9f70d816b4c",
     "https://wkylin.github.io/ng-pwa/assets/home-screen/icon-96x96.png": "65db27156fcbe921903b680907665c4dff8cdfe8"
   }
