@@ -8,7 +8,7 @@
     "start": "ng serve",
     "build": "ng build --prod",
     "ngsw:server": "cd dist && http-server -S  -C cert.pem -K key.pem",
-    "ngh:build": "ng build --prod --base-href \"https://wkylin.github.com/ng-pwa/\"",
+    "ngh:build": "ng build --prod --base-href \"https://wkylin.github.io/ng-pwa/\"",
     "ngh": "ngh",
     "test": "ng test",
     "lint": "ng lint",
