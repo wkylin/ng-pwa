@@ -13,7 +13,8 @@ import { environment } from '../environments/environment';
   ],
   imports: [
     BrowserModule,
-    ServiceWorkerModule.register('/ng-pwa/ngsw-worker.js', { enabled: environment.production })
+    // ServiceWorkerModule.register('/ng-pwa/ngsw-worker.js', { enabled: environment.production }) // github page
+    ServiceWorkerModule.register('/ngsw-worker.js', { enabled: environment.production })  // dev
   ],
   providers: [],
   bootstrap: [AppComponent]

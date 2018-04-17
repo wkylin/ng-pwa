@@ -29,7 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Http-server
 
-Cygwin
+#### Cygwin
 1. 安装Cygwin https://cygwin.com/
 2. C:\cygwin64\home\UserName
 3. openssl genrsa -out key.pem 1024
@@ -37,5 +37,10 @@ Cygwin
 5. openssl x509 -req -in cert.csr -signkey key.pem -out cert.pem
 6. http-server -S  -C cert.pem -K key.pem
 
+#### Ngrok
+1. "build": "ng build --prod",
+2. "http:server": "cd dist && http-server -p 9088",
+3. "ngr": "ngrok http 9088",
+
 ## PWA demo
-[https://github.com/NastyaSmirnova/PWCat/](https://github.com/NastyaSmirnova/PWCat/)
+[https://wkylin.github.io/ng-pwa/](https://wkylin.github.io/ng-pwa/)
