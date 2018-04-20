@@ -29,7 +29,17 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Http-server
 
-#### Cygwin
+## rm mkdir cp
+
+1. npm install rimraf cpr make-dir-cli --save-dev
+2. npm install --global copy
+3. npm install --global make-dir-cli
+4. npm install scripty --save-dev
+5. npm install --global opn-cli
+6. npm install onchange --save-dev
+7. npm install imagemin-cli --save-dev
+
+## Cygwin
 1. 安装Cygwin https://cygwin.com/
 2. C:\cygwin64\home\UserName
 3. openssl genrsa -out key.pem 1024
@@ -37,7 +47,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 5. openssl x509 -req -in cert.csr -signkey key.pem -out cert.pem
 6. http-server -S  -C cert.pem -K key.pem
 
-#### Ngrok
+## Ngrok
 1. "build": "ng build --prod",
 2. "http:server": "cd dist && http-server -p 9088",
 3. "ngr": "ngrok http 9088",
