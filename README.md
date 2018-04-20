@@ -38,8 +38,16 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 5. npm install --global opn-cli
 6. npm install onchange --save-dev
 7. npm install imagemin-cli --save-dev
+8. npm install -g nodemon
+9. npm install pm2 -g
+10. npm install express morgan --save-dev
 
-## Cygwin
++ "release:patch": "npm version patch && git push && git push --tags",
++ "release:minor": "npm version minor && git push && git push --tags",
++ "release:major": "npm version major && git push && git push --tags",
+patch 是更新补丁版本，minor 是更新小版本，major 是更新大版本
+
+## Cygwin 
 1. 安装Cygwin https://cygwin.com/
 2. C:\cygwin64\home\UserName
 3. openssl genrsa -out key.pem 1024
